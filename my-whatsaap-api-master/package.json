@@ -5,6 +5,7 @@
   "main": "api.js",
   "scripts": {
     "start": "node api.js",
+    "build": "npm start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
